@@ -1,0 +1,2 @@
+//static variableb Example
+class
