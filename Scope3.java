@@ -6,7 +6,7 @@ class Scope3{
 		x=10;
 		if(x==10){
 			int y=20;
-			System.out.println("x and y: "+x+" "+y);
+			System.out.println("x and y: "+x+"   "+y);
 			x=y*2;
 		}
 		//y=10; //error: out of scope
