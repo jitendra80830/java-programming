@@ -2,6 +2,7 @@
 package mypackage1;
 
 public class X{
+	
 	int n=1;
 	private int p=2;
 	protected int q=3;

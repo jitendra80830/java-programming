@@ -1,8 +1,8 @@
 //Save this file in mypackage1
 package mypackage1;
 import mypackage1.X;
-class A{ //Default protection
-	A(){ //Default access constructor
+public class A{ //Default protection
+	public A(){ //Default access constructor
 		X x=new X();
 		System.out.println("Same package Constructor.....");
 		
