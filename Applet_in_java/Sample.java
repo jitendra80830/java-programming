@@ -11,12 +11,12 @@ public class Sample extends Applet{
 		msg="Inside init()....";
 	}
 	//initializing thhe string to be display
-	public void paint(Graphics g){
-		msg+="Inside pani()...";
+	public void start(){
+		msg+="Inside start()...";
 	}
 	//Display msg in applet window
 	public void paint(Graphics g){
-		msg+="Inside paint().";
+		msg+="Inside paint()..";
 		g.drawString(msg,10,30);
 	}
 }

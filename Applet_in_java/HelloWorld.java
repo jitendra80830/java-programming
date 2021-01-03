@@ -5,6 +5,6 @@ import java.awt.*;
 public class HelloWorld extends Applet{
 	
 	public void pain(Graphics g){
-		g.drawString("HelloWorld!",150,150);
+		g.drawString("Hello World!",150,150);
 	}
 }
