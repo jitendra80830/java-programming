@@ -1,4 +1,4 @@
-//Applet Calculater
+//Applet Calculater..
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
