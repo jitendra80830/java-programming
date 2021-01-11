@@ -8,7 +8,7 @@ public class GuassGame{
 		
 		Scanner input=new Scanner(System.in);
 		
-		int jackpote=(int)(Math.random()*100);
+		int jackpote=(int)(Math.random()*100);cmd
 		System.out.println("Guass the Number");
 		
 		int guass=input.nextInt();
